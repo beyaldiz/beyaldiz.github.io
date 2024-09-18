@@ -256,12 +256,13 @@ export default function FancyFuturisticLanding() {
             </h2>
             <p className="text-lg text-gray-300 leading-relaxed mb-4">
               Growing up watching my brother playing video games,
-              I developed a childhood trauma being exposed to crappy
+              I developed a childhood trauma due to being exposed to crappy
               video game animations.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed mb-4">
               Fortunately, during my undergraduate years, I had the 
-              chance to do a research internship at <Link href="https://visualai.kaist.ac.kr/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline"><strong>KAIST Visual AI Group</strong></Link> on <strong>marker-based motion capture solving</strong>.
+              chance to do a research internship at <Link href="https://visualai.kaist.ac.kr/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline"><strong>KAIST Visual AI Group</strong></Link> on <strong>marker-based motion capture solving</strong>
+              advised by <Link href="https://mhsung.github.io" target="_blank" rel="noopener noreferrer" className="hover:underline">Dr. Minhyuk Sung</Link>.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed mb-4">
               Later, I interned at <Link href="https://fluentt.ai" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline"><strong>FluentT Inc.</strong></Link>, where I developed a 
