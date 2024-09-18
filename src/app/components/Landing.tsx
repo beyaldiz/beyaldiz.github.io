@@ -261,7 +261,7 @@ export default function FancyFuturisticLanding() {
             </p>
             <p className="text-lg text-gray-300 leading-relaxed mb-4">
               Fortunately, during my undergraduate years, I had the 
-              chance to do a research internship at <Link href="https://visualai.kaist.ac.kr/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline"><strong>KAIST Visual AI Group</strong></Link> on <strong>marker-based motion capture solving</strong>
+              chance to do a research internship at <Link href="https://visualai.kaist.ac.kr/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline"><strong>KAIST Visual AI Group</strong></Link> on <strong>marker-based motion capture solving </strong>
                advised by <Link href="https://mhsung.github.io" target="_blank" rel="noopener noreferrer" className="hover:underline"><strong>Dr. Minhyuk Sung</strong></Link>.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed mb-4">
