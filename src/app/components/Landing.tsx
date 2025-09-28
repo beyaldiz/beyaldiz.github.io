@@ -176,7 +176,7 @@ export default function FancyFuturisticLanding() {
                 animate={controls}
                 transition={{ delay: 0.6, duration: 0.8 }}
               >
-                Embodied agent motion.
+                Action and motion for embodied agents.
               </motion.p>
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
