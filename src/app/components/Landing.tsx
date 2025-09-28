@@ -176,9 +176,7 @@ export default function FancyFuturisticLanding() {
                 animate={controls}
                 transition={{ delay: 0.6, duration: 0.8 }}
               >
-                Create realistic animations for 3D characters.
-                <br/>
-                Easy. Simple. Without an animator.
+                Embodied agent motion.
               </motion.p>
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
